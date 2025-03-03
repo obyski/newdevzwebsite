@@ -3,8 +3,7 @@
         <div class="navbar-backdrop fixed inset-0bg-violet-900 opacity-20"></div>
         <nav class="relative flex flex-col py-7 px-10 w-full h-full bg-white overflow-y-auto">
           <div class="flex mb-auto items-center">
-            <a class="inline-block mr-auto" href="#">
-              <!-- <img class="h-10" src="@/assets/casper-assets/logos/casper-logo.svg" alt=""> -->
+            <a class="inline-block mr-auto" href="/">
               <h1 class="text-2xl text-white font-bold italic">NEWDEV</h1>
             </a>
             <div @click="toggleMenu" class="navbar-close">
